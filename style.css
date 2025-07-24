@@ -26,4 +26,6 @@ background-size: cover;
 .subscribe{
     background-image: url('./assets/news-letter-bg.png');
     background-image:cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
