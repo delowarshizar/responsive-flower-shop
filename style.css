@@ -7,3 +7,19 @@
 .noto{
     font-family: "Noto Serif", serif;
 }
+.bloom-photo{
+background-image:  linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),url('./assets/deal-bloom.png');
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+.ana-photo{
+ background-image:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),url('./assets/deal-ana.png') ;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+.zabo-photo{
+ background-image:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),url('./assets/deal-zabo.png') ;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
